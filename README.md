@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @magdy-zon But everybody calls me Mac
+- 👋 Hi, I’m Magdiel Juarez buy you can call me Mac and I'm a Backend Developer.
 
-- 👀 I’m interested learning how backend development is involucrated from a new project taking the new requeriments to deployment.
+- 👀 I want to be a Software Architect and now I'm a Backend Developer.
 
 - 🌱 I’m currently learning DDD and microservices.
 
