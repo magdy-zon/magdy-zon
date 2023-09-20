@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Magdiel Juarez buy you can call me Mac and I'm a Backend Developer.
+- 👋 Hi, I’m Magdiel Juarez and I'm a Backend Developer.
 
 - 👀 I want to be a Software Architect and now I'm a Backend Developer.
 
